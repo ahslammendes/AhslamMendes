@@ -1,5 +1,3 @@
-# Ahslam Mendes
-
 # Olá, eu sou Ahslam Mendes 👋
 
 Transformo processos manuais em soluções automatizadas. Uso Python, SQL e Inteligência Artificial para construir automações, organizar dados e desenvolver sistemas back-end.
